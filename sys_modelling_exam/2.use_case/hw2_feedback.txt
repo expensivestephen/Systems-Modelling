@@ -1,0 +1,6 @@
+Actors correctly identified: 1
+Use Cases and boundary of the system correctly identified: 1
+Correct use of use case relationships: 0.5
+An extension should be drawn from the extension to the extended use case. I do not see why Enter details from RFQ includes Send RFQ.
+Correctness and level of detail of the Use Case document: 1
+Too many mono-step flows. Inclusions and extensions in the use case diagrams should be aligned with normal flows/alternative flows in the scenarios. Each inclusion should be specified in a normal scenario to show when and how it should be used. All the extensions should appear as alternative flows in the scenarios

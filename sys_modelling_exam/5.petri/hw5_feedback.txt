@@ -1,0 +1,1 @@
+Transition "to M2L directly" should not be allowed to fire when M2 is broken.

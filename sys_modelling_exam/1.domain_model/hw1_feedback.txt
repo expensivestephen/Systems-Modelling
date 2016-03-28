@@ -1,0 +1,6 @@
+Classes correctly identified: 1
+- Relations correctly identified: 0.75, a Petri net does not contain only places but also arcs and transitions.
+- Multiplicities correct: 1
+- Attributes correctly identified: 0.75, an event has a timestamp and a name also
+- correct use of other elements of a class model: 0.25, you use qualified associations in a wrong way. For example, I read given a “Place” and a “Source Place”, this is connected to several arcs. Probably here you wanted to use association end names.
+- simplicity of the overall model: 0.5
